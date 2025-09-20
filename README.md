@@ -13,7 +13,7 @@ Set Memory Size: Define the total memory size available for allocation.
 Add Blocked Regions: Specify memory regions that are already in use or blocked.
 Allocate Pages: Add page sizes for memory allocation and view how the app fits them into available memory blocks.
 
-## Results:
+## Results
 Allocated memory blocks, showing start and end addresses.
 Remaining free memory blocks after allocation.
 
